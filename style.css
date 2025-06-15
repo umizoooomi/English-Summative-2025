@@ -54,7 +54,7 @@ nav ul{
     align-items: center;
 }
 nav li{
-    height: 60px;
+    height: 80px;
     transition: background 0.2s, color 0.2s;
 }
 nav a{

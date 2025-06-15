@@ -88,6 +88,7 @@ nav li:first-child{
     flex-direction: column;
     align-items: left;
     justify-content: flex-start;
+    padding-left: 10px;
 }
 .sidebar li{
     width: 100%;
@@ -105,7 +106,6 @@ section {
     position: relative;
     transition: box-shadow 0.2s;
     z-index: 1;
-    padding-left: 10px;
 }
 section:hover {
     box-shadow: 0 0 40px #286aa0cc;

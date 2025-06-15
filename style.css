@@ -115,7 +115,7 @@ nav li:first-child{
 .sidebar li, .sidebar a {
     box-sizing: border-box;
     width: 100%;
-    text-align: left;
+    text-align: center;
     word-break: break-word;
 }
 section {

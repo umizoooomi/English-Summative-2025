@@ -77,10 +77,10 @@ nav li:first-child{
 .sidebar{
     position:fixed;
     top: 0;
-    right: 0;
+    left: 0;
     height: 100vh;
     z-index: 999;
-    background-color: #3f437156;
+    background-color: #3F4156;
     backdrop-filter: blur(10px);
     box-shadow:-10px 0 10px rgba(0, 0, 0, 0.1);
     display: none;

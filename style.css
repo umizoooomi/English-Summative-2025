@@ -96,7 +96,7 @@ nav li:first-child{
     top: 0;
     right: 0;
     width: 230px;
-    height: 100vh;
+    height: 80vh;
     z-index: 999;
     background-color: #3f437156;
     backdrop-filter: blur(10px);

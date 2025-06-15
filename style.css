@@ -208,7 +208,7 @@ p{
     background: rgba(20, 30, 50, 0.85);
     border-radius: 18px;
     box-shadow: 0 4px 32px #0005;
-    padding: 40px 32px 32px 32px;
+    padding: 32px 32px 32px 32px;
     position: relative;
     overflow: hidden;
 }
@@ -248,7 +248,7 @@ p{
         text-align: center;
     }
     section {
-        padding: 24px 8vw 18px 8vw;
+        padding: 24px 8vw 24px 8vw;
     }
     h1 {
         font-size: 2.2rem;

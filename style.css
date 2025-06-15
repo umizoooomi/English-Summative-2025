@@ -10,7 +10,7 @@ body{
     scroll-behavior: smooth;
 }
 .hero-bg {
-    background-image: url(https://img.freepik.com/free-photo/digital-world-banner-background-remixed-from-public-domain-by-nasa_53876-104886.jpg);
+    /*background-image: url(https://img.freepik.com/free-photo/digital-world-banner-background-remixed-from-public-domain-by-nasa_53876-104886.jpg);*/
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
